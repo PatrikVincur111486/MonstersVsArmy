@@ -1,0 +1,8 @@
+Valer 80 600
+david 300 80
+Patrik 75 70
+Kubo 100 75
+Peter 105 65
+viktor 2 500
+Leo 110 110
+Luky 120 100

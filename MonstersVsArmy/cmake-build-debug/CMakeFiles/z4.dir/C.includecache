@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/data.h
+
+../include/rng.h
+
+C:/Users/patri/CLionProjects/z4_clion_projekt/src/z4.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+rng.h
+C:/Users/patri/CLionProjects/z4_clion_projekt/src/rng.h
+data.h
+C:/Users/patri/CLionProjects/z4_clion_projekt/src/data.h
+
